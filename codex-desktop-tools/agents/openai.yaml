@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Desktop Tools"
+  short_description: "Repair Codex Desktop sessions and proxy setup"
+  default_prompt: "Use $codex-desktop-tools to repair or migrate local Codex Desktop session state."
